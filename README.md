@@ -23,4 +23,4 @@ Our Recommender system can work in two approaches:
 ![alt text](https://github.com/kstepanov7/Tinkofy/blob/master/images/PFA.jpg?raw=true)
 
 2. Ante Factum Approach - Using a predictive model (improved baseline model) trained on transaction history, the system predicts to which category of merchants the user will more likely go, and suggests him interesting places in this category. 
-![alt text](https://github.com/kstepanov7/Tinkofy/blob/master/images/AFA.jpg.jpg?raw=true)
+![alt text](https://github.com/kstepanov7/Tinkofy/blob/master/images/AFA.jpg?raw=true)
