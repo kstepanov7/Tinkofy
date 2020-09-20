@@ -15,6 +15,7 @@ Dowload dataset and weights from [https://drive.google.com/drive/folders/1cngBCq
 
 ![alt text](https://github.com/kstepanov7/Tinkofy/blob/master/images/matrix_scheme.PNG?raw=true)
 
+
 # Results
 
 Our Recommender system can work in two approaches:
@@ -24,3 +25,6 @@ Our Recommender system can work in two approaches:
 
 2. Ante Factum Approach - Using a predictive model (improved baseline model) trained on transaction history, the system predicts to which category of merchants the user will more likely go, and suggests him interesting places in this category. 
 ![alt text](https://github.com/kstepanov7/Tinkofy/blob/master/images/AFA.jpg?raw=false)
+
+Baseline improvement:
+Improved baseline - we conducted search for optimal hyper parameters, and found that e.g. increasing feed forward size or model dimension actually worsens the result, and a slight improvement over the baseline can be done by increasing the number of attention heads (n_heads) to 4. We also set "MAP@30" as the main metric
