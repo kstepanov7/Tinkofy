@@ -3,7 +3,7 @@ Tinkoff Advice hackathon | Skoltech, 18.09.20-20.09.20
 
 
 # Setup:
-Dowload dataset and weights from [https://docs.google.com/presentation/d/1EyLhlgTijo5-_APKNL1vqb1Yk8hm0uSqLYD_GL1PlRE/edit?usp=sharing](https://docs.google.com/presentation/d/1EyLhlgTijo5-_APKNL1vqb1Yk8hm0uSqLYD_GL1PlRE/edit?usp=sharing) and change data path.
+Dowload dataset and weights from [https://drive.google.com/drive/folders/1UAQQjGppZ3Y8oA1mUWnJr4XPflbbVASf?usp=sharing](https://drive.google.com/drive/folders/1UAQQjGppZ3Y8oA1mUWnJr4XPflbbVASf?usp=sharing) and change data path.
 
 # Content
 
