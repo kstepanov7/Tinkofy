@@ -9,6 +9,7 @@ Dowload dataset and weights from [https://drive.google.com/drive/folders/1UAQQjG
 
 1. 'AdviseSystem.ipynb' - notebook with code and examples for Recommender system.
 2. 'ImprovedBaseline.ipynb' - notebook with improved baseline.
+3. 'best_weight.pth' - weights for improved baseline
 
 
 # Recommender System description
